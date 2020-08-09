@@ -1,4 +1,4 @@
-###  Welcome wanderer.. 
+##  Welcome wanderer.. 
 
 You have reached a passionate Software Engineer aspiring to create and be part of the technology that shapes the future of the human race.
 
@@ -12,7 +12,7 @@ You have reached a passionate Software Engineer aspiring to create and be part o
 
 - ⚡ Fun fact: You have time, only that which you are willing to act in. Stay strong!
 
-***P.S. Not all my projects are on Github. Reach out to me and I will show you what more I can do :) ***
+### P.S. Not all my projects are on Github. Reach out to me and I will show you what more I can do :) 
 
 
 
