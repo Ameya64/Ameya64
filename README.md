@@ -12,7 +12,7 @@ You have reached a passionate Software Engineer aspiring to create and be part o
 
 - ⚡ Fun fact: You have time, only that which you are willing to act in. Stay strong!
 
-### P.S. Not all my projects are on Github. Reach out to me for more :) 
+### P.S. Not all my projects are public. Reach out to me for more :) 
 
 
 
