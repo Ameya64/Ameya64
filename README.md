@@ -2,11 +2,11 @@
 
 You have reached a passionate Software Engineer aspiring to create and be part of the technology that shapes the future of the human race.
 
-- 🌱 I’m learning VueJS in my freetime
+- 🌱 Learning VueJS in my freetime
 
-- 🤔 I’m looking for help with finding a job
+- 🤔 Looking for help with finding a job
 
-- 🔭 I’m currently working on a personal MERN Project 
+- 🔭 Currently working on a personal MERN Project 
 
 - 📫 How to reach me: https://www.linkedin.com/in/iameya/
 
