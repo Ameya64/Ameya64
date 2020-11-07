@@ -10,7 +10,7 @@ You have reached a passionate Software Engineer aspiring to create and be part o
 
 - 📫 How to reach me: https://www.linkedin.com/in/iameya/
 
-- ⚡ Quote: You have time, only that which you are willing to act in...
+- ⚡ Quote: You have time, only which you are willing to act in...
 
 ### P.S. Not all my projects are public. Reach out to me for more :) 
 
